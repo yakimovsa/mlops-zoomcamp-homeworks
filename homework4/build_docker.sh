@@ -1,0 +1,1 @@
+docker build -t ride-duration-prediction:v2 .

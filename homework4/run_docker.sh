@@ -1,0 +1,1 @@
+docker run -it --rm ride-duration-prediction:v2
